@@ -1,0 +1,102 @@
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\appsettings.json
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\NewsApi.exe
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\NewsApi.deps.json
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\NewsApi.runtimeconfig.json
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\NewsApi.dll
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\NewsApi.pdb
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\NewsApi.xml
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\teodo\source\repos\Brta\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.csproj.AssemblyReference.cache
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.AssemblyInfoInputs.cache
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.AssemblyInfo.cs
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.csproj.CoreCompileInputs.cache
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.NewsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.build.NewsApi.props
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewsApi.props
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewsApi.props
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\scopedcss\bundle\NewsApi.styles.css
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.csproj.CopyComplete
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.dll
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\refint\NewsApi.dll
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.xml
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.pdb
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\NewsApi.genruntimeconfig.cache
+C:\Users\teodo\source\repos\Brta\Brta\obj\Debug\net6.0\ref\NewsApi.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\appsettings.json
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\NewsApi.exe
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\NewsApi.deps.json
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\NewsApi.runtimeconfig.json
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\NewsApi.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\NewsApi.pdb
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\NewsApi.xml
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.csproj.AssemblyReference.cache
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.AssemblyInfoInputs.cache
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.AssemblyInfo.cs
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.csproj.CoreCompileInputs.cache
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.NewsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.build.NewsApi.props
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewsApi.props
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewsApi.props
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\scopedcss\bundle\NewsApi.styles.css
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.csproj.CopyComplete
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\refint\NewsApi.dll
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.xml
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.pdb
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\NewsApi.genruntimeconfig.cache
+C:\Users\dariu\OneDrive\Desktop\Brta\Brta\obj\Debug\net6.0\ref\NewsApi.dll
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\appsettings.Development.json
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\appsettings.json
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\NewsApi.exe
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\NewsApi.deps.json
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\NewsApi.runtimeconfig.json
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\NewsApi.dll
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\NewsApi.pdb
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\NewsApi.xml
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\school\brta\new lab\Brta\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.csproj.AssemblyReference.cache
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.AssemblyInfoInputs.cache
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.AssemblyInfo.cs
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.csproj.CoreCompileInputs.cache
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\staticwebassets\msbuild.NewsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\staticwebassets\msbuild.build.NewsApi.props
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NewsApi.props
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NewsApi.props
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\staticwebassets.pack.json
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\staticwebassets.build.json
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\staticwebassets.development.json
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\scopedcss\bundle\NewsApi.styles.css
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.csproj.CopyComplete
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.dll
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\refint\NewsApi.dll
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.xml
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.pdb
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\NewsApi.genruntimeconfig.cache
+C:\school\brta\new lab\Brta\obj\Debug\net6.0\ref\NewsApi.dll

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NewsApi</name>
+    </assembly>
+    <members>
+        <member name="M:NewsApi.AnnouncementsController.#ctor(NewsApi.Services.IAnnouncementCollectionService)">
+            <summary>
+            this is a get function
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
